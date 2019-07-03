@@ -1,0 +1,49 @@
+body{
+    background-image: url("./hinh_nen.jpg"); 
+}
+div {
+    margin-left: 5px;
+}
+/* #table1{
+    background-color: #00FFFF;
+    border-collapse: collapse;
+    margin-left: 50px; 
+    
+}
+#table2{
+    background-color: white;
+    border-collapse: collapse;
+    position: absolute;
+    right: 50px; 
+    top: 10px;
+    
+} */
+table {
+    background-color: white;
+    border-collapse: collapse;
+    width: 45%;
+    float: left;
+    margin: 10px;
+}
+tr{
+    margin: 10px;
+    text-align: center;  
+}
+td{
+     text-align: center;
+     width: 40px ;
+     height: 40px;
+     padding: 5px;
+     
+ }
+ /* .bigNumberDisplay{
+     size: 40px;
+ }
+ td.selected {
+    color:red;
+} */
+#text{
+    width: 50px;
+}
+
+ 
